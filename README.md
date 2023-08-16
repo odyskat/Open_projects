@@ -9,7 +9,7 @@ You can 3d print it (at home or order it in a nearby 3d fab) using typical PLA m
 
 You will also need *2 M4 screws of 25 mm length* and *2 M2 screws of 25mm* length for the assembly.
 
-
+Step file is included in the folder "step file" for modifications.
 
 ![Suitcase_handle_blank_Homeview](https://github.com/odyskat/Open_projects/assets/114591654/354069ac-6675-4d74-bd92-3df26dae0044)
 ![Suitcase_handle_blank_2023-May-11_04-11-30PM-000_CustomizedView15767934385_png](https://github.com/odyskat/Open_projects/assets/114591654/5fa698a0-16af-448e-90d9-1b30737cdb42) 
