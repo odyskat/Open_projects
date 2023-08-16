@@ -1,7 +1,4 @@
-# Open_projects
-Open electromechanical projects. 
-You can freely download, modify and enjoy.😎
-More coming up...
+
 # Suitcase handle:
 Recently a friend’s suitcase handle broke and he asked me to make him a new one to save him from buying a new suitcase. 
 The design is based on measurements from a generic no-name Chinese suitcase.
